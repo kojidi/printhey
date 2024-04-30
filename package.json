@@ -1,0 +1,23 @@
+{
+  "name": "printhey",
+  "version": "1.0.0",
+  "description": "A learning node package that help you print 'HEY!' in your console",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kojidi/printhey.git"
+  },
+  "keywords": [
+    "print",
+    "hey"
+  ],
+  "author": "Hamid Rajabi Kojidi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kojidi/printhey/issues"
+  },
+  "homepage": "https://github.com/kojidi/printhey#readme"
+}
